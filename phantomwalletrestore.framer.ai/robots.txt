@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://phantomwalletrestore.framer.ai/sitemap.xml
